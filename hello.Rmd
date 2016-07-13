@@ -2,7 +2,9 @@
 title: "Hello World"
 author: "Fulvia Ferrazzi"
 date: "July 13, 2016"
-output: html_document
+output:
+  word_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
